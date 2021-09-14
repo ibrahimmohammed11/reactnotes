@@ -1,0 +1,15 @@
+.navColor {
+  background-color: #7adac0;
+}
+.colorSt {
+  color: #efefe8ff;
+}
+.colorSt:hover {
+  color: #efefe8ff;
+}
+.nameSt {
+  background-color: #293250;
+  color: #efefe8ff;
+  cursor: pointer;
+  border-radius: 5px;
+}
